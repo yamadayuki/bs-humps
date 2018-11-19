@@ -10,7 +10,7 @@
     "humps": "^2.0.1"
   },
   "devDependencies": {
-    "bs-jest": "^0.2.0",
+    "bs-jest": "^0.3.2",
     "bs-platform": "^1.9.2"
   },
   "homepage": "https://github.com/yamadayuki/issues#readme",
