@@ -19,9 +19,9 @@
     js-tokens "^4.0.0"
 
 "@glennsl/bs-jest@^0.4.5":
-  version "0.4.5"
-  resolved "https://registry.yarnpkg.com/@glennsl/bs-jest/-/bs-jest-0.4.5.tgz#f6259f8457cc9f09b3c07f97073c6b00c81a048d"
-  integrity sha512-iDhVxPdZf5yMBJlMY+b9BR4G8/DQICbWvxYwI71VpEOKxhZW9h8Sx+pm4Y6xpVZOenT7sVJ5O62Q+UW6Rmducw==
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/@glennsl/bs-jest/-/bs-jest-0.4.6.tgz#2a249a46c10caaa9756b5e30dcf60a2c1dde57ea"
+  integrity sha512-TJLx1ti1Cp7e53bCndV7DpMAcZL9+pqA4L9YD4kCrDQuYdA8boRnPh1l862w8AJHWTxEki/xtDu0FVPCq2HVrA==
   dependencies:
     jest "^23.5.0"
 
