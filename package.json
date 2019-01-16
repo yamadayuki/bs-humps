@@ -29,7 +29,7 @@
   "scripts": {
     "build": "bsb -make-world",
     "clean": "bsb -clean-world",
-    "pretest": "yarn run build",
+    "pretest": "npm run build",
     "start": "bsb -make-world -w",
     "test": "jest"
   }
