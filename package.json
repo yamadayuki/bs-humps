@@ -10,7 +10,7 @@
     "humps": "^2.0.1"
   },
   "devDependencies": {
-    "@glennsl/bs-jest": "^0.4.5",
+    "@glennsl/bs-jest": "^0.5.1",
     "bs-platform": "^5.0.0"
   },
   "homepage": "https://github.com/yamadayuki/issues#readme",
