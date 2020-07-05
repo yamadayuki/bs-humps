@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.5",
-    "bs-platform": "^5.0.0"
+    "bs-platform": "^8.0.3"
   },
   "homepage": "https://github.com/yamadayuki/issues#readme",
   "jest": {
